@@ -10,5 +10,6 @@ public class TestaBanco {
 
         contaDoPaulo.titular = paulo;
         System.out.println(contaDoPaulo.titular.nome);
+        System.out.println("teste para aula");
     }
 }
